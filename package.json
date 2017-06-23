@@ -1,0 +1,29 @@
+{
+  "name": "colin-array",
+  "version": "1.0.0",
+  "description": "To inpire our talented backend developer Colin Xu! Colin Array is the implementation of sequential index array. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airplake/Colin-Array.git"
+  },
+  "keywords": [
+    "Sequential",
+    "Wenqing",
+    "Yu",
+    "Array"
+  ],
+  "author": "Wenqing Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airplake/Colin-Array/issues"
+  },
+  "homepage": "https://github.com/airplake/Colin-Array#readme",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "time-diff": "^0.3.1"
+  }
+}
